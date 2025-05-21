@@ -33,7 +33,7 @@ public class MVideoParserService {
         WebDriver driver = initDriver();
 
         try {
-            for (int page = 1; page <= 15; page++) {
+            for (int page = 1; page <= 40; page++) {
                 String url = BASE_URL + page;
                 System.out.println("Парсинг страницы: " + url);
                 driver.get(url);

@@ -1147,6 +1147,13 @@
   "rating" : "5.0",
   "screen" : "6.9\"/1320x2868 Пикс"
 }, {
+  "title" : "Восстановленный смартфон Apple iPhone 14 128GB eSim Midnight, хороший",
+  "price" : "46999",
+  "cashback" : "1410",
+  "reviewCount" : "1268",
+  "rating" : "4.8",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
   "title" : "Смартфон HUAWEI Pura 70 12/256GB Pink",
   "price" : "54999",
   "cashback" : "1650",
@@ -2113,13 +2120,6 @@
   "rating" : "4.8",
   "screen" : "6.78\"/1264x2780 Пикс"
 }, {
-  "title" : "Смартфон HONOR X8b 8/128GB Silver",
-  "price" : "14999",
-  "cashback" : "450",
-  "reviewCount" : "103",
-  "rating" : "4.9",
-  "screen" : "6.7\"/1080x2412 Пикс"
-}, {
   "title" : "Смартфон Xiaomi Redmi 12 4/128GB Sky Blue",
   "price" : "17999",
   "cashback" : "540",
@@ -2498,6 +2498,13 @@
   "rating" : "4.9",
   "screen" : "6.36\"/1200x2670 Пикс"
 }, {
+  "title" : "Смартфон POCO X6 Pro 5G 12/512GB Grey",
+  "price" : "29999",
+  "cashback" : "900",
+  "reviewCount" : "66",
+  "rating" : "4.9",
+  "screen" : "6.67\"/1220x2712 Пикс"
+}, {
   "title" : "Смартфон Apple iPhone 16 128GB White (Dual Sim)",
   "price" : "79999",
   "cashback" : "2400",
@@ -2812,13 +2819,6 @@
   "reviewCount" : "44",
   "rating" : "4.9",
   "screen" : "6.67\"/2400x1080 Пикс"
-}, {
-  "title" : "Восстановленный смартфон Apple iPhone 13 128GB nanoSim/eSim Green, как новый",
-  "price" : "48199",
-  "cashback" : "1446",
-  "reviewCount" : "2961",
-  "rating" : "5.0",
-  "screen" : "6.1\"/2532x1170 Пикс"
 }, {
   "title" : "Смартфон Samsung Galaxy Z Flip6 256GB Серый",
   "price" : "99999",
@@ -3422,13 +3422,6 @@
   "rating" : "5.0",
   "screen" : "6.78\"/2436x1080 Пикс"
 }, {
-  "title" : "Смартфон realme 12 Pro+ 8/256GB Blue Sea",
-  "price" : "28499",
-  "cashback" : "855",
-  "reviewCount" : "22",
-  "rating" : "5.0",
-  "screen" : "6.7\"/2412x1080 Пикс"
-}, {
   "title" : "Смартфон Samsung Galaxy S25 5G 12/128GB Мятный",
   "price" : "79999",
   "cashback" : "2400",
@@ -3751,13 +3744,6 @@
   "rating" : "4.8",
   "screen" : "6.7\"/2412x1080 Пикс"
 }, {
-  "title" : "Смартфон POCO X7 5G 12/512GB Green",
-  "price" : "22999",
-  "cashback" : "690",
-  "reviewCount" : "24",
-  "rating" : "5.0",
-  "screen" : "6.67\"/2712x1220 Пикс"
-}, {
   "title" : "Смартфон Apple iPhone 16 Pro 512GB Black Titanium (Dual Sim)",
   "price" : "151999",
   "cashback" : "4560",
@@ -3778,4 +3764,6318 @@
   "reviewCount" : "25",
   "rating" : "5.0",
   "screen" : "6.78\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Infinix ZERO 40 5G 12/512GB Violet Garden",
+  "price" : "34999",
+  "cashback" : "1050",
+  "reviewCount" : "22",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno CAMON 30 5G 8/256GB Basaltic Dark",
+  "price" : "19999",
+  "cashback" : "600",
+  "reviewCount" : "21",
+  "rating" : "4.6",
+  "screen" : "6.78\"/2780x1264 Пикс"
+}, {
+  "title" : "Смартфон vivo Y28 8/128GB Темный изумруд",
+  "price" : "12499",
+  "cashback" : "375",
+  "reviewCount" : "16",
+  "rating" : "5.0",
+  "screen" : "6.68\"/1608x720 Пикс"
+}, {
+  "title" : "Смартфон Tecno SPARK 30 8/128GB Magic Skin Green (KL6)",
+  "price" : "9499",
+  "cashback" : "285",
+  "reviewCount" : "26",
+  "rating" : "4.9",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno CAMON 30S 8/128GB Nebula Violet",
+  "price" : "15999",
+  "cashback" : "480",
+  "reviewCount" : "23",
+  "rating" : "5.0",
+  "screen" : "6.78\"/1080x2436 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark 30 8/256GB Astral Ice",
+  "price" : "9499",
+  "cashback" : "285",
+  "reviewCount" : "N/A",
+  "rating" : "17999",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 5G 12/1TB Серебристый",
+  "price" : "164999",
+  "cashback" : "4950",
+  "reviewCount" : "19",
+  "rating" : "5.0",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон POCO X7 5G 8/256GB Black",
+  "price" : "22199",
+  "cashback" : "666",
+  "reviewCount" : "12",
+  "rating" : "4.9",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон vivo V40 12/512GB Титановый Серебристый",
+  "price" : "54999",
+  "cashback" : "1650",
+  "reviewCount" : "19",
+  "rating" : "4.9",
+  "screen" : "6.78\"/2800x1260 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/512GB Titan Blue",
+  "price" : "58999",
+  "cashback" : "1770",
+  "reviewCount" : "15",
+  "rating" : "4.9",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Tecno CAMON 30S 8/256GB Nebula Violet",
+  "price" : "17999",
+  "cashback" : "540",
+  "reviewCount" : "20",
+  "rating" : "5.0",
+  "screen" : "6.78\"/1080x2436 Пикс"
+}, {
+  "title" : "Смартфон Infinix Smart 9 4/128GB Metallic Black",
+  "price" : "8499",
+  "cashback" : "255",
+  "reviewCount" : "20",
+  "rating" : "5.0",
+  "screen" : "6.78\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi A5 3/64GB Sandy Gold",
+  "price" : "5499",
+  "cashback" : "165",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.88\"/1640x720 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 8/256GB Lavender Purple",
+  "price" : "34299",
+  "cashback" : "1029",
+  "reviewCount" : "13",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi A5 4/128GB Ocean Blue",
+  "price" : "7499",
+  "cashback" : "225",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.88\"/1640x720 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB Teal (Dual Sim)",
+  "price" : "79999",
+  "cashback" : "2400",
+  "reviewCount" : "15",
+  "rating" : "4.9",
+  "screen" : "6.1\"/1179x2556 Пикс"
+}, {
+  "title" : "Смартфон vivo V30 lite 8/128GB Кристаллический черный",
+  "price" : "15299",
+  "cashback" : "459",
+  "reviewCount" : "18",
+  "rating" : "4.8",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Infinix Hot 50i 4/256GB Titanium Gray",
+  "price" : "10499",
+  "cashback" : "315",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.78\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон OPPO RENO 12 Pro 12/512GB Sunset Gold",
+  "price" : "37999",
+  "cashback" : "1140",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2412x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno CAMON 30 Pro 5G 12/256GB Basaltic Dark",
+  "price" : "30499",
+  "cashback" : "915",
+  "reviewCount" : "19",
+  "rating" : "4.8",
+  "screen" : "6.78\"/1080x2436 Пикс"
+}, {
+  "title" : "Смартфон POCO M7 Pro 5G 12/256GB Purple",
+  "price" : "18499",
+  "cashback" : "555",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno PHANTOM V Fold2 5G 12/512GB Rippling Blue",
+  "price" : "79999",
+  "cashback" : "2400",
+  "reviewCount" : "21",
+  "rating" : "4.8",
+  "screen" : null
+}, {
+  "title" : "Смартфон Tecno CAMON 30 Pro 5G 12/256GB Snowy Silver",
+  "price" : "30499",
+  "cashback" : "915",
+  "reviewCount" : "20",
+  "rating" : "5.0",
+  "screen" : "6.78\"/1080x2436 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB White Titanium (Dual Sim)",
+  "price" : "124999",
+  "cashback" : "3750",
+  "reviewCount" : "16",
+  "rating" : "5.0",
+  "screen" : "6.3\"/1206x2622 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi A5 3/64GB Lake Green",
+  "price" : "5499",
+  "cashback" : "165",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.88\"/1640x720 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 5G 8/128GB серый",
+  "price" : "37999",
+  "cashback" : "1140",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон vivo V40 Lite 4G 8/128GB Титановое сияние",
+  "price" : "19999",
+  "cashback" : "600",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 12/512GB Lavender Purple",
+  "price" : "37799",
+  "cashback" : "1134",
+  "reviewCount" : "17",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB Desert Titanium (Dual Sim)",
+  "price" : "165999",
+  "cashback" : "4980",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.3\"/1206x2622 Пикс"
+}, {
+  "title" : "Смартфон vivo V40 12/512GB Галактический Фиолетовый",
+  "price" : "54999",
+  "cashback" : "1650",
+  "reviewCount" : "17",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2800x1260 Пикс"
+}, {
+  "title" : "Смартфон Infinix Note 40 8/256GB Green",
+  "price" : "21999",
+  "cashback" : "660",
+  "reviewCount" : "16",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB Natural Titanium (Dual Sim)",
+  "price" : "151999",
+  "cashback" : "4560",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.3\"/1206x2622 Пикс"
+}, {
+  "title" : "Смартфон OPPO Reno 13F 8/512GB Фиолетовый",
+  "price" : "25999",
+  "cashback" : "780",
+  "reviewCount" : "9",
+  "rating" : "4.9",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14S 12/512GB Aurora Purple",
+  "price" : "24899",
+  "cashback" : "747",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 5G 8/128GB серый",
+  "price" : "29999",
+  "cashback" : "900",
+  "reviewCount" : "4",
+  "rating" : "4.8",
+  "screen" : null
+}, {
+  "title" : "Смартфон Xiaomi Redmi A5 4/128GB Sandy Gold",
+  "price" : "7499",
+  "cashback" : "225",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.88\"/1640x720 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 5G 8/256GB розовый",
+  "price" : "41999",
+  "cashback" : "1260",
+  "reviewCount" : "4",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон OPPO Reno 13 5G 12/512GB Синий",
+  "price" : "51999",
+  "cashback" : "1560",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2760x1256 Пикс"
+}, {
+  "title" : "Смартфон OPPO Reno 13F 8/512GB Серый",
+  "price" : "25999",
+  "cashback" : "780",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Infinix Smart 9 4/128GB Neo Titanium",
+  "price" : "8499",
+  "cashback" : "255",
+  "reviewCount" : "16",
+  "rating" : "4.9",
+  "screen" : "6.78\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон realme 12 Pro+ 8/256GB Beige Sand",
+  "price" : "28499",
+  "cashback" : "855",
+  "reviewCount" : "16",
+  "rating" : "4.9",
+  "screen" : "6.7\"/2412x1080 Пикс"
+}, {
+  "title" : "Смартфон vivo X100 16/512GB Черный астероид",
+  "price" : "99999",
+  "cashback" : "3000",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2800x1260 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi MIX Flip 12/512GB Black",
+  "price" : "106999",
+  "cashback" : "3210",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/128GB голубой",
+  "price" : "59999",
+  "cashback" : "1800",
+  "reviewCount" : "13",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/512GB Titan Gray",
+  "price" : "48999",
+  "cashback" : "1470",
+  "reviewCount" : "15",
+  "rating" : "4.7",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Tecno Camon 40 Premier 5G 12/256GB Black",
+  "price" : "44999",
+  "cashback" : "1350",
+  "reviewCount" : "9",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2800x1260 Пикс"
+}, {
+  "title" : "Смартфон OPPO Reno 13 Pro 5G 12/512GB Фиолетовый",
+  "price" : "69999",
+  "cashback" : "2100",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.83\"/2800x1272 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 5G 8/128GB зеленый",
+  "price" : "37999",
+  "cashback" : "1140",
+  "reviewCount" : "7",
+  "rating" : "4.9",
+  "screen" : null
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/256GB Lemon Green",
+  "price" : "45999",
+  "cashback" : "1380",
+  "reviewCount" : "14",
+  "rating" : "4.9",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB White Titanium (Dual Sim)",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "15",
+  "rating" : "N/A",
+  "screen" : "6.3\"/1206x2622 Пикс"
+}, {
+  "title" : "Смартфон POCO F7 Pro 12/512GB Black",
+  "price" : "48299",
+  "cashback" : "1449",
+  "reviewCount" : "7",
+  "rating" : "4.9",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14S 8/128GB Ocean Blue",
+  "price" : "18399",
+  "cashback" : "552",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон OPPO Reno 13F 8/256GB Фиолетовый",
+  "price" : "21999",
+  "cashback" : "660",
+  "reviewCount" : "6",
+  "rating" : "4.7",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/256GB Titan Blue",
+  "price" : "53299",
+  "cashback" : "1599",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон vivo V40 Lite 5G 12/256GB Насыщенный черный",
+  "price" : "29999",
+  "cashback" : "900",
+  "reviewCount" : "15",
+  "rating" : "4.7",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 12/256GB Black",
+  "price" : "89999",
+  "cashback" : "2700",
+  "reviewCount" : "4",
+  "rating" : "5.0",
+  "screen" : "6.36\"/2670x1200 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 5G 8/256GB лайм",
+  "price" : "33999",
+  "cashback" : "1020",
+  "reviewCount" : "4",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB Dual Sim Yellow",
+  "price" : "84999",
+  "cashback" : "2550",
+  "reviewCount" : "9",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон OPPO Reno 13 Pro 5G 12/512GB Серый",
+  "price" : "69999",
+  "cashback" : "2100",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.83\"/2800x1272 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14S 8/128GB Aurora Purple",
+  "price" : "18399",
+  "cashback" : "552",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 5G 8/256GB черный",
+  "price" : "27999",
+  "cashback" : "840",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон Tecno Camon 40 Pro 5G 8/256GB Black",
+  "price" : "26999",
+  "cashback" : "810",
+  "reviewCount" : "7",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 5G 8/256GB лаванда",
+  "price" : "33999",
+  "cashback" : "1020",
+  "reviewCount" : "4",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон POCO F7 Pro 12/256GB Silver",
+  "price" : "42299",
+  "cashback" : "1269",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Tecno POVA 6 8/256GB Comet Green",
+  "price" : "18499",
+  "cashback" : "555",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.78\"/1080x2436 Пикс"
+}, {
+  "title" : "Смартфон Tecno SPARK Go 1 4/128GB Titanium Gold",
+  "price" : "6499",
+  "cashback" : "195",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.67\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 5G 8/128GB розовый",
+  "price" : "37999",
+  "cashback" : "1140",
+  "reviewCount" : "3",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон Xiaomi 15 12/512GB Black",
+  "price" : "88499",
+  "cashback" : "2655",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.36\"/2670x1200 Пикс"
+}, {
+  "title" : "Смартфон OPPO Reno 13 5G 12/512GB Белый",
+  "price" : "51999",
+  "cashback" : "1560",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2760x1256 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 Ultra 16/512GB Black",
+  "price" : "149999",
+  "cashback" : "4500",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.73\"/3200x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 13 Pro Max 128GB nanoSim/eSim Alpine Green, хороший",
+  "price" : "62899",
+  "cashback" : "1887",
+  "reviewCount" : "681",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2778x1284 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 14 Pro Max 128GB eSim Deep Purple, хороший",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "6",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон POCO F7 Ultra 16/512GB Black",
+  "price" : "71999",
+  "cashback" : "2160",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 5G 6/128GB черный",
+  "price" : "24999",
+  "cashback" : "750",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон POCO F7 Pro 12/256GB Blue",
+  "price" : "42299",
+  "cashback" : "1269",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон POCO F7 Pro 12/512GB Blue",
+  "price" : "48299",
+  "cashback" : "1449",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 Ultra 16/1TB Silver Chrome",
+  "price" : "159999",
+  "cashback" : "4800",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.73\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон POCO F7 Pro 12/512GB Silver",
+  "price" : "48299",
+  "cashback" : "1449",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон POCO F7 Ultra 12/256GB Yellow",
+  "price" : "54999",
+  "cashback" : "1650",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон POCO F7 Ultra 16/512GB Yellow",
+  "price" : "71999",
+  "cashback" : "2160",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 5G 6/128GB белый",
+  "price" : "24999",
+  "cashback" : "750",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон Tecno Camon 40 Pro 5G 12/256GB Green",
+  "price" : "29999",
+  "cashback" : "900",
+  "reviewCount" : "10",
+  "rating" : "4.8",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 13 Pro Max 128GB nanoSim/eSim Sierra Blue, хороший",
+  "price" : "62899",
+  "cashback" : "1887",
+  "reviewCount" : "681",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2778x1284 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 5G 8/128GB лаванда",
+  "price" : "29999",
+  "cashback" : "900",
+  "reviewCount" : "3",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 5G 8/128GB лайм",
+  "price" : "29999",
+  "cashback" : "900",
+  "reviewCount" : "4",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон Tecno Camon 40 8/256GB Green",
+  "price" : "18999",
+  "cashback" : "570",
+  "reviewCount" : "7",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 5G 8/256GB мятный",
+  "price" : "27999",
+  "cashback" : "840",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон Tecno Camon 40 Premier 5G 12/256GB Green",
+  "price" : "44999",
+  "cashback" : "1350",
+  "reviewCount" : "7",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2800x1260 Пикс"
+}, {
+  "title" : "Смартфон Tecno Camon 40 Pro 8/256GB White",
+  "price" : "22999",
+  "cashback" : "690",
+  "reviewCount" : "7",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 5G 6/128GB мятный",
+  "price" : "24999",
+  "cashback" : "750",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 8/256GB Midnight Black",
+  "price" : "22499",
+  "cashback" : "675",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 13 128GB nanoSim/eSim Green, хороший",
+  "price" : "40699",
+  "cashback" : "1221",
+  "reviewCount" : "3",
+  "rating" : "5.0",
+  "screen" : "44932\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Tecno SPARK Go 1 3/64GB Magic Skin Green",
+  "price" : "5499",
+  "cashback" : "165",
+  "reviewCount" : "3",
+  "rating" : "5.0",
+  "screen" : "6.67\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark 30C 4/128GB Magic Skin Green",
+  "price" : "7499",
+  "cashback" : "225",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.67\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 Ultra 16/512GB Silver Chrome",
+  "price" : "149999",
+  "cashback" : "4500",
+  "reviewCount" : "3",
+  "rating" : "5.0",
+  "screen" : "6.73\"/3200x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 13 128GB nanoSim/eSim Blue, отличный",
+  "price" : "43499",
+  "cashback" : "1305",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон HUAWEI nova Y63 4/128GB Black",
+  "price" : "11999",
+  "cashback" : "360",
+  "reviewCount" : "N/A",
+  "rating" : "14999",
+  "screen" : "6.75\"/1600x720 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24 Ultra 12/512GB Marble Gray, отличный",
+  "price" : "80799",
+  "cashback" : "2424",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 12/256GB White",
+  "price" : "89999",
+  "cashback" : "2700",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.36\"/2670x1200 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi A5 4/128GB Lake Green",
+  "price" : "7499",
+  "cashback" : "225",
+  "reviewCount" : "N/A",
+  "rating" : "7999",
+  "screen" : "6.88\"/1640x720 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24 Ultra 12/256GB Marble Gray, хороший",
+  "price" : "59999",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "130999",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 12/256GB Green",
+  "price" : "89999",
+  "cashback" : "2700",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.36\"/2670x1200 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 12 128GB nanoSim/eSim White, хороший",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "1",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S23 Ultra 12/512GB Phantom Black (SM-S918B), хороший",
+  "price" : "63999",
+  "cashback" : "1920",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24 Ultra 12/256GB Onyx Black, как новый",
+  "price" : "75999",
+  "cashback" : "2280",
+  "reviewCount" : "N/A",
+  "rating" : "130999",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 12/512GB Green",
+  "price" : "88499",
+  "cashback" : "2655",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.36\"/2670x1200 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy A34 6/128GB Awesome Graphite, отличный",
+  "price" : "19999",
+  "cashback" : "600",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno Camon 40 Pro 5G 8/256GB Green",
+  "price" : "26999",
+  "cashback" : "810",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 14 128GB Dual Sim Starlight, отличный",
+  "price" : "50999",
+  "cashback" : "1530",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy A55 5G 8/128GB Blue Black, отличный",
+  "price" : "24999",
+  "cashback" : "750",
+  "reviewCount" : "N/A",
+  "rating" : "41999",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 12 256GB nanoSim/eSim Purple, хороший",
+  "price" : "33599",
+  "cashback" : "1008",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 Ultra 16/512GB White",
+  "price" : "149999",
+  "cashback" : "4500",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.73\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Tecno SPARK 30 8/256GB Magic Skin Green (KL6)",
+  "price" : "9499",
+  "cashback" : "285",
+  "reviewCount" : "N/A",
+  "rating" : "17999",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон POCO F7 Pro 12/256GB Black",
+  "price" : "42299",
+  "cashback" : "1269",
+  "reviewCount" : "N/A",
+  "rating" : "55999",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone SE 2020 64GB nanoSim/eSim Black, отличный",
+  "price" : "13499",
+  "cashback" : "405",
+  "reviewCount" : "1",
+  "rating" : "3.0",
+  "screen" : "45111\"/1334x750 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 15 Pro 1TB nanoSim/eSim Black Titanium, как новый",
+  "price" : "118699",
+  "cashback" : "3561",
+  "reviewCount" : "N/A",
+  "rating" : "199999",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S21 FE 6/128GB Light Green (SM-G990B), хороший",
+  "price" : "21999",
+  "cashback" : "660",
+  "reviewCount" : "N/A",
+  "rating" : "41999",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24 Ultra 12/512GB Cobalt Violet, как новый",
+  "price" : "90899",
+  "cashback" : "2727",
+  "reviewCount" : "N/A",
+  "rating" : "143999",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 15 Pro Max 512GB nanoSim/eSim Blue Titanium, как новый",
+  "price" : "117199",
+  "cashback" : "3516",
+  "reviewCount" : "N/A",
+  "rating" : "179999",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S22 Ultra 12/256GB Dark Red, хороший",
+  "price" : "47999",
+  "cashback" : "1440",
+  "reviewCount" : "N/A",
+  "rating" : "83999",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 15 Plus 128GB nanoSim/eSim Green, как новый",
+  "price" : "74999",
+  "cashback" : "2250",
+  "reviewCount" : "N/A",
+  "rating" : "118699",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Восстановленный смартфон HONOR Magic6 Pro 12/512GB Black, отличный",
+  "price" : "64999",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "129999",
+  "screen" : "6.8\"/2800x1280 Пикс"
+}, {
+  "title" : "Восстановленный смартфон HUAWEI Pura 70 Pro 12/512GB Black, хороший",
+  "price" : "41999",
+  "cashback" : "1260",
+  "reviewCount" : "N/A",
+  "rating" : "104999",
+  "screen" : "6.8\"/1260x2844 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S21 Ultra 16/512GB Phantom Black (SM-G998B), хороший",
+  "price" : "35999",
+  "cashback" : "1080",
+  "reviewCount" : "N/A",
+  "rating" : "125999",
+  "screen" : "6.8\"/3200x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 15 128GB Dual Sim Pink, хороший",
+  "price" : "47999",
+  "cashback" : "1440",
+  "reviewCount" : "N/A",
+  "rating" : "94999",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 15 Pro 128GB nanoSim/eSim White Titanium, отличный",
+  "price" : "81999",
+  "cashback" : "2460",
+  "reviewCount" : "N/A",
+  "rating" : "124999",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24 Ultra 12/256GB Marble Gray, как новый",
+  "price" : "75999",
+  "cashback" : "2280",
+  "reviewCount" : "N/A",
+  "rating" : "130999",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S22 Ultra 12/256GB Green (SM-S908B), хороший",
+  "price" : "47999",
+  "cashback" : "1440",
+  "reviewCount" : "N/A",
+  "rating" : "85699",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone XS Max 64GB nanoSim/eSim Space Grey, хороший",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.5\"/2688x1242 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S23 FE 8/256GB Purple, как новый",
+  "price" : "39999",
+  "cashback" : "1200",
+  "reviewCount" : "N/A",
+  "rating" : "65999",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy A55 5G 8/128GB Blue Black, хороший",
+  "price" : "21999",
+  "cashback" : "660",
+  "reviewCount" : "N/A",
+  "rating" : "41999",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон HONOR Magic6 Pro 12/512GB Black, хороший",
+  "price" : "59999",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "129999",
+  "screen" : "6.8\"/2800x1280 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24 8/256GB Marble Gray, как новый",
+  "price" : "49999",
+  "cashback" : "1500",
+  "reviewCount" : "N/A",
+  "rating" : "90999",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy A55 5G 8/256GB Light Blue, как новый",
+  "price" : "31999",
+  "cashback" : "960",
+  "reviewCount" : "N/A",
+  "rating" : "45999",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон HONOR X8 6/128GB Titanium Silver, хороший",
+  "price" : "10499",
+  "cashback" : "315",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2388x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Xiaomi Redmi Note 13 Pro+ 5G 8/256GB Midnight Black, отличный",
+  "price" : "23999",
+  "cashback" : "720",
+  "reviewCount" : "N/A",
+  "rating" : "51999",
+  "screen" : "6.67\"/1220x2712 Пикс"
+}, {
+  "title" : "Восстановленный смартфон HUAWEI Mate 50 Pro 8/256GB Black (DCO-LX9), хороший",
+  "price" : "29999",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "59399",
+  "screen" : "6.74\"/2616x1212 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S22 8/256GB Phantom White, хороший",
+  "price" : "32499",
+  "cashback" : "975",
+  "reviewCount" : "N/A",
+  "rating" : "59999",
+  "screen" : "6.1\"/2400x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S21 FE 8/256Gb белый, отличный",
+  "price" : "25999",
+  "cashback" : "780",
+  "reviewCount" : "N/A",
+  "rating" : "47999",
+  "screen" : "6.4\"/1080x2340 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S22 8/256GB Pink Gold (SM-S901E), хороший",
+  "price" : "32499",
+  "cashback" : "975",
+  "reviewCount" : "N/A",
+  "rating" : "64999",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон HONOR Magic V2 16/512GB Black, отличный",
+  "price" : "69999",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "179999",
+  "screen" : "6.43\"/2376x1060 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24+ 12/256GB Onyx Black, как новый",
+  "price" : "65999",
+  "cashback" : "1980",
+  "reviewCount" : "N/A",
+  "rating" : "102999",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Motorola Razr 40 8/256GB Vanilla Cream, как новый",
+  "price" : "32999",
+  "cashback" : "990",
+  "reviewCount" : "N/A",
+  "rating" : "39999",
+  "screen" : "2640x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон HONOR X9a 6/128GB (5109ALXS) Green, как новый",
+  "price" : "19999",
+  "cashback" : "600",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy Z Flip5 8/512Gb Graphite (SM-F731B), отличный",
+  "price" : "49999",
+  "cashback" : "1500",
+  "reviewCount" : "N/A",
+  "rating" : "82999",
+  "screen" : "6.7\"/2640x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S21+ 8/128GB Phantom Black (SM-G996B), отличный",
+  "price" : "25999",
+  "cashback" : "780",
+  "reviewCount" : "N/A",
+  "rating" : "78999",
+  "screen" : "6.7\"/2400x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy A55 5G 8/128GB Lavender, отличный",
+  "price" : "24999",
+  "cashback" : "750",
+  "reviewCount" : "N/A",
+  "rating" : "41999",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон realme 11 8/128GB Black (RMX3636), хороший",
+  "price" : "9499",
+  "cashback" : "285",
+  "reviewCount" : "N/A",
+  "rating" : "21399",
+  "screen" : "6.43\"/2400x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24+ 12/256GB Marble Gray, отличный",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон realme C67 8/256GB Green Oasis (RMX3890), как новый",
+  "price" : "15999",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.72\"/2400x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy Note20 Ultra 8/256GB Black (SM-N985F/DS), хороший",
+  "price" : "34999",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3088x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Motorola Razr 40 ULTRA 8/256GB Viva Magenta, хороший",
+  "price" : "37999",
+  "cashback" : "1140",
+  "reviewCount" : "N/A",
+  "rating" : "59999",
+  "screen" : "2640x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 15 128GB Dual Sim Pink, как новый",
+  "price" : "61999",
+  "cashback" : "1860",
+  "reviewCount" : "N/A",
+  "rating" : "94999",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24+ 12/512GB Onyx Black, как новый",
+  "price" : "78499",
+  "cashback" : "2355",
+  "reviewCount" : "N/A",
+  "rating" : "115999",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон OPPO A58 6/128GB Light Green, как новый",
+  "price" : "10999",
+  "cashback" : "330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.72\"/1080x2400 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S23 Ultra 8/256GB Blue, хороший",
+  "price" : "57999",
+  "cashback" : "1740",
+  "reviewCount" : "N/A",
+  "rating" : "79999",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone XR 128GB nanoSim/eSim Yellow, хороший",
+  "price" : "18599",
+  "cashback" : "558",
+  "reviewCount" : "699",
+  "rating" : "4.8",
+  "screen" : "6.1\"/1792x828 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24+ 12/256GB Amber Yellow, отличный",
+  "price" : "59999",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "102999",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Tecno Spark 10 Pro 8/256GB Black, отличный",
+  "price" : "9999",
+  "cashback" : "300",
+  "reviewCount" : "164",
+  "rating" : "4.8",
+  "screen" : "6.78\"/2460x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S23 Ultra 12/512GB Lime (SM-S918U1) не русифицирован, хороший",
+  "price" : "63999",
+  "cashback" : "1920",
+  "reviewCount" : "83",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S23 Ultra 12/512GB Red (SM-S918U1) не русифицирован, как новый",
+  "price" : "76999",
+  "cashback" : "2310",
+  "reviewCount" : "83",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Apple iPhone 12 Pro 128GB nanoSim/eSim Graphite, отличный",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "128",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S23+ 8/256Gb Lavender (SM-S916B/DS), хороший",
+  "price" : "47999",
+  "cashback" : "1440",
+  "reviewCount" : "42",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон OPPO Find N3 Flip 12/256GB Black",
+  "price" : "119999",
+  "cashback" : "3600",
+  "reviewCount" : "24",
+  "rating" : "4.8",
+  "screen" : null
+}, {
+  "title" : "Смартфон vivo X100 16/512GB Звездный синий",
+  "price" : "99999",
+  "cashback" : "3000",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2800x1260 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Xiaomi 11T 8/128GB White, хороший",
+  "price" : "13999",
+  "cashback" : "420",
+  "reviewCount" : "N/A",
+  "rating" : "29999",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон POCO F5 8/256GB Blue, как новый",
+  "price" : "30999",
+  "cashback" : "930",
+  "reviewCount" : "N/A",
+  "rating" : "34999",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy A54 8/256GB Awesome Graphite, хороший",
+  "price" : "21999",
+  "cashback" : "660",
+  "reviewCount" : "N/A",
+  "rating" : "37999",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24+ 12/256GB Marble Gray, как новый",
+  "price" : "65999",
+  "cashback" : "1980",
+  "reviewCount" : "N/A",
+  "rating" : "102999",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон POCO F5 Pro 12/512GB Black, хороший",
+  "price" : "27999",
+  "cashback" : "840",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3200x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy A55 5G 8/128GB Blue Black, как новый",
+  "price" : "27999",
+  "cashback" : "840",
+  "reviewCount" : "N/A",
+  "rating" : "41999",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Xiaomi Redmi Note 13 Pro+ 5G 8/256GB Moonlight White, как новый",
+  "price" : "26999",
+  "cashback" : "810",
+  "reviewCount" : "N/A",
+  "rating" : "51999",
+  "screen" : "6.67\"/1220x2712 Пикс"
+}, {
+  "title" : "Восстановленный смартфон HUAWEI Pura 70 Pro 12/512GB White, как новый",
+  "price" : "53999",
+  "cashback" : "1620",
+  "reviewCount" : "N/A",
+  "rating" : "104999",
+  "screen" : "6.8\"/2844x1260 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Motorola Razr 40 ULTRA 8/256GB Infinite Black, как новый",
+  "price" : "46999",
+  "cashback" : "1410",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "2640x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон OnePlus Nord N20 SE 4/128GB черный, как новый",
+  "price" : "11499",
+  "cashback" : "345",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.56\"/1612x720 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S22 Ultra 12/512GB Burgundy (SM-S908B), хороший",
+  "price" : "49999",
+  "cashback" : "1500",
+  "reviewCount" : "N/A",
+  "rating" : "89999",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон realme GT 6 16/512GB Green, хороший",
+  "price" : "44999",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.78\"/1264x2780 Пикс"
+}, {
+  "title" : "Восстановленный смартфон POCO M5s 4/128Gb Blue, хороший",
+  "price" : "10799",
+  "cashback" : "324",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.43\"/1080x2400 Пикс"
+}, {
+  "title" : "Восстановленный смартфон POCO M6 Pro 8/256Gb Black, как новый",
+  "price" : "14999",
+  "cashback" : "450",
+  "reviewCount" : "N/A",
+  "rating" : "24999",
+  "screen" : "6.67\"/1080x2400 Пикс"
+}, {
+  "title" : "Восстановленный смартфон POCO X6 Pro 5G 8/256GB Yellow, отличный",
+  "price" : "19999",
+  "cashback" : "600",
+  "reviewCount" : "N/A",
+  "rating" : "36999",
+  "screen" : "6.67\"/1220x2712 Пикс"
+}, {
+  "title" : "Восстановленный смартфон POCO F6 Pro 12/512GB Black, отличный",
+  "price" : "33999",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "41999",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон HUAWEI P60 Pro 12/512GB Rococo Pearl (MNA-LX9), хороший",
+  "price" : "34999",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "86999",
+  "screen" : "6.67\""
+}, {
+  "title" : "Восстановленный смартфон realme C53 6/128GB Champion Gold (RMX3760), отличный",
+  "price" : "10999",
+  "cashback" : "330",
+  "reviewCount" : "N/A",
+  "rating" : "14999",
+  "screen" : "6.74\"/1600x720 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S23 FE 8/128GB Mint (SM-S711B/DS), как новый",
+  "price" : "44999",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "59999",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24 Ultra 12/1TB Marble Gray, хороший",
+  "price" : "90999",
+  "cashback" : "2730",
+  "reviewCount" : "N/A",
+  "rating" : "173999",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy A35 5G 8/256GB Light Blue, как новый",
+  "price" : "26999",
+  "cashback" : "810",
+  "reviewCount" : "N/A",
+  "rating" : "41999",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy Z Flip6 12/256GB Серый, хороший",
+  "price" : "67499",
+  "cashback" : "2025",
+  "reviewCount" : "N/A",
+  "rating" : "119999",
+  "screen" : "6.7\"/1080x2640 Пикс"
+}, {
+  "title" : "Восстановленный смартфон HONOR X9b 8/256GB Orange, отличный",
+  "price" : "18799",
+  "cashback" : "564",
+  "reviewCount" : "N/A",
+  "rating" : "32999",
+  "screen" : "6.78\"/1200x2652 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Xiaomi Redmi Note 13 Pro+ 5G 12/512GB Aurora Purple, отличный",
+  "price" : "25499",
+  "cashback" : "765",
+  "reviewCount" : "N/A",
+  "rating" : "56999",
+  "screen" : "6.67\"/1220x2712 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Xiaomi Redmi Note 13 6/128GB Ice Blue, как новый",
+  "price" : "12499",
+  "cashback" : "375",
+  "reviewCount" : "N/A",
+  "rating" : "22999",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24 8/128GB Onyx Black, отличный",
+  "price" : "49999",
+  "cashback" : "1500",
+  "reviewCount" : "N/A",
+  "rating" : "82999",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Xiaomi Redmi Note 10 Pro 8/256Gb Glacier Blue, хороший",
+  "price" : "13999",
+  "cashback" : "420",
+  "reviewCount" : "N/A",
+  "rating" : "19999",
+  "screen" : "6.67\"/1080x2400 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Motorola Razr 40 ULTRA 8/256GB Viva Magenta, отличный",
+  "price" : "41999",
+  "cashback" : "1260",
+  "reviewCount" : "N/A",
+  "rating" : "59999",
+  "screen" : "2640x1080 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy S24+ 12/256GB Cobalt Violet, отличный",
+  "price" : "59999",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "102999",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy Z Fold6 12/512GB Синий, отличный",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "7.6\"/1856x2160 Пикс"
+}, {
+  "title" : "Восстановленный смартфон Samsung Galaxy Z Fold6 12/1TB Серый, хороший",
+  "price" : "104999",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "229999",
+  "screen" : "7.6\"/1856x2160 Пикс"
+}, {
+  "title" : "Восстановленный смартфон POCO X6 Pro 5G 12/512GB Grey, хороший",
+  "price" : "20999",
+  "cashback" : "630",
+  "reviewCount" : "N/A",
+  "rating" : "42999",
+  "screen" : "6.67\"/1220x2712 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Green",
+  "price" : "65790",
+  "cashback" : "1974",
+  "reviewCount" : "2961",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Blue",
+  "price" : "62799",
+  "cashback" : "1884",
+  "reviewCount" : "2961",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 Pro 1TB nanoSim/eSim Синий титан",
+  "price" : "191999",
+  "cashback" : "5760",
+  "reviewCount" : "1738",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1179x2556 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Blue",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "622",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Blue",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "622",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Midnight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "20",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Starlight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "45",
+  "rating" : "4.9",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Midnight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "33",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Black Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Midnight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "47",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Blue",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "11",
+  "rating" : "4.9",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Midnight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "42",
+  "rating" : "4.8",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Black",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "19",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim Black",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1792x828 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Midnight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "35",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Starlight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "21",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Pink",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "21",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Starlight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "14",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim White",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "20",
+  "rating" : "5.0",
+  "screen" : "6.1\"/828x1792 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Midnight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Midnight",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Blue",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Midnight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "20",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Blue",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "23",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim White",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "19",
+  "rating" : "5.0",
+  "screen" : "6.1\"/828x1792 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Starlight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim Black",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "21",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1792x828 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 Ultra 12/512GB Phantom Black",
+  "price" : "119990",
+  "cashback" : "3600",
+  "reviewCount" : "19",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 FE 8/256GB Cream",
+  "price" : "63990",
+  "cashback" : "1920",
+  "reviewCount" : "19",
+  "rating" : "5.0",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S22+ 5G 256GB Phantom White (SM-S906E/DS)",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "20",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S22 5G 128GB Phantom White (SM-S901E/DS)",
+  "price" : "58990",
+  "cashback" : "1770",
+  "reviewCount" : "20",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 FE 8/128GB Mint",
+  "price" : "58990",
+  "cashback" : "1770",
+  "reviewCount" : "19",
+  "rating" : "5.0",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Blue",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "17",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Blue",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Blue",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "13",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Pink",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Starlight",
+  "price" : "82690",
+  "cashback" : "2481",
+  "reviewCount" : "19",
+  "rating" : "5.0",
+  "screen" : "6.1\"/3024x4032 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Midnight",
+  "price" : "82690",
+  "cashback" : "2481",
+  "reviewCount" : "19",
+  "rating" : "5.0",
+  "screen" : "6.1\"/3024x4032 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 FE 8/256GB Purple",
+  "price" : "63990",
+  "cashback" : "1920",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Blue",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "17",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim Black",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1792x828 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Blue",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "17",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim Black",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "17",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1792x828 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Pink",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "17",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 8/256GB Green",
+  "price" : "75990",
+  "cashback" : "2280",
+  "reviewCount" : "17",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Green",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "17",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Midnight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "16",
+  "rating" : "4.8",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 12 64GB nanoSim/eSim Green",
+  "price" : "47990",
+  "cashback" : "1440",
+  "reviewCount" : "13",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Starlight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Blue",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Black",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Pink",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim Black",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "16",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1792x828 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Pink",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Starlight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Black",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "17",
+  "rating" : "4.6",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Green",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 Ultra 1TB Phantom Black",
+  "price" : "136990",
+  "cashback" : "4110",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Starlight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 12 64GB nanoSim/eSim White",
+  "price" : "47990",
+  "cashback" : "1440",
+  "reviewCount" : "13",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Starlight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "14",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S22 Ultra 256GB Burgundy (SM-S908E/DS)",
+  "price" : "89990",
+  "cashback" : "2700",
+  "reviewCount" : "9",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim White",
+  "price" : "107490",
+  "cashback" : "3225",
+  "reviewCount" : "13",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark 30 Pro 8/128GB Obsidian Edge",
+  "price" : "14999",
+  "cashback" : "450",
+  "reviewCount" : "11",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Starlight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Blue",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X6 Pro 12/512 GB Yellow",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "11",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 Ultra 12/256GB Green",
+  "price" : "109900",
+  "cashback" : "3297",
+  "reviewCount" : "11",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Midnight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "11",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO M5 4/64 ГБ Global зелeный",
+  "price" : "14990",
+  "cashback" : "450",
+  "reviewCount" : "11",
+  "rating" : "5.0",
+  "screen" : "6.58\"/2408x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Black",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim White",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.1\"/828x1792 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark Go 1 4/64GB Startrail Black",
+  "price" : "6499",
+  "cashback" : "195",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.67\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X6 Pro 12/512 GB Gray",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark 30 8/256GB Stellar Shadow",
+  "price" : "13990",
+  "cashback" : "420",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark 30 8/128GB Stellar Shadow",
+  "price" : "11990",
+  "cashback" : "360",
+  "reviewCount" : "9",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Black",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim White",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "7",
+  "rating" : "5.0",
+  "screen" : "6.1\"/828x1792 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Black",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Starlight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Tecno Pova 6 Pro 5G 12/256GB Meteorite Gray",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "7",
+  "rating" : "4.9",
+  "screen" : "6.8\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark 30 5G 6/128GB Azure Sky",
+  "price" : "12999",
+  "cashback" : "390",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.67\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S22 5G 256GB Pink Gold (SM-S901E/DS)",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno POVA 6 Neo 8/128GB Speed Black",
+  "price" : "15999",
+  "cashback" : "480",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.8\"/2460x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim White",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.1\"/828x1792 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 128GB Green",
+  "price" : "68990",
+  "cashback" : "2070",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Blue",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Blue",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark 30 5G 6/128GB Midnight Shadow",
+  "price" : "12999",
+  "cashback" : "390",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.67\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Midnight",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 Ultra 12/256GB Black",
+  "price" : "111229",
+  "cashback" : "3337",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Blue",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Purple",
+  "price" : "82690",
+  "cashback" : "2481",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 11 64GB nanoSim/eSim Black",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1792x828 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Black Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 128GB nanoSim/eSim Black",
+  "price" : "111990",
+  "cashback" : "3360",
+  "reviewCount" : "4",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Black",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "4",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Tecno POVA 6 12/256GB Gray",
+  "price" : "24490",
+  "cashback" : "735",
+  "reviewCount" : "4",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Blue",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "4",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Natural Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Black Titani",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Natural Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Natural Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 Ultra 12/256GB Green",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "3",
+  "rating" : "N/A",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Desert Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Desert Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 13T Pro 12/512GB Meadow Green",
+  "price" : "50990",
+  "cashback" : "1530",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 Ultra 12/256GB Black",
+  "price" : "129900",
+  "cashback" : "3897",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Black Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Desert Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Natural Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Pink",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Samsung Galaxy S24 8/256GB Onyx Black",
+  "price" : "74990",
+  "cashback" : "2250",
+  "reviewCount" : "3",
+  "rating" : "5.0",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Pink",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Black Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Black",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Natural Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim White Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Gray",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон POCO F6 Pro 12/512GB White",
+  "price" : "49990",
+  "cashback" : "1500",
+  "reviewCount" : "2",
+  "rating" : "4.0",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 256GB nanoSim/eSim Pink",
+  "price" : "142990",
+  "cashback" : "4290",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim White",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A55 5G 8/128GB Blue",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.6\"/1080x2340 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Fold6 256GB Серый",
+  "price" : "175999",
+  "cashback" : "5280",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Natural Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 128GB nanoSim/eSim Black",
+  "price" : "111990",
+  "cashback" : "3360",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 8/256GB Black",
+  "price" : "20990",
+  "cashback" : "630",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Fold5 12/512GB Phantom Black",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : null
+}, {
+  "title" : "Смартфон HONOR 200 12/512GB Black",
+  "price" : "41990",
+  "cashback" : "1260",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2664x1200 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A55 5G 8/128GB Light Blue",
+  "price" : "35900",
+  "cashback" : "1077",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.6\"/1080x2340 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Gray",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/256GB Navy",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Natural Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim White Titani",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/256GB Titan Blue",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "2",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон HUAWEI nova 12s 8/256GB Black",
+  "price" : "36999",
+  "cashback" : "1110",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2412x1084 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Green",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Desert Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Desert Titan",
+  "price" : "158890",
+  "cashback" : "4767",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 Ultra 12/256GB черный",
+  "price" : "100190",
+  "cashback" : "3006",
+  "reviewCount" : "1",
+  "rating" : "4.0",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim White Titani",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Black",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Black Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim White",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Natural Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Samsung Galaxy S24 Ultra 12/512GB Marble Gray",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Samsung Galaxy S24 Ultra 12/512GB Onyx Black",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 Pro Max 512GB White Titanium",
+  "price" : "196333",
+  "cashback" : "5890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim Black",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 Ultra 12/512GB Silver",
+  "price" : "125490",
+  "cashback" : "3765",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.73\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim White Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Pink",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Black Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Black Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Desert Titanium",
+  "price" : "113890",
+  "cashback" : "3417",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Natural Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Desert Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 5G 8/256GB черный",
+  "price" : "70699",
+  "cashback" : "2121",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Black Titani",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 5G 8/256GB Black",
+  "price" : "24990",
+  "cashback" : "750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Google Pixel 9 Pro XL 16/256GB Porceline",
+  "price" : "154990",
+  "cashback" : "4650",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.8\"/1344x2992 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Black",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim White Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Black Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Black Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Redmi A3 4/128GB Blue",
+  "price" : "6990",
+  "cashback" : "210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 128GB nanoSim/eSim Pink",
+  "price" : "111990",
+  "cashback" : "3360",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон OnePlus Nord N20 SE 4/128GB нефритовая волна",
+  "price" : "12890",
+  "cashback" : "387",
+  "reviewCount" : "1",
+  "rating" : "5.0",
+  "screen" : "6.56\"/1612x720 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Natural Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 12/256GB Graphite",
+  "price" : "44990",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Desert Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Natural Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Desert Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Google Смартфон Google Pixel 7 Pro 12/128GB черный",
+  "price" : "49990",
+  "cashback" : "1500",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/1440x3120 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Midnight",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 5G 12/512GB Black",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB nanoSim/eSim Natural Titanium",
+  "price" : "169990",
+  "cashback" : "5100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Tecno Pova 6 Neo 8/128GB Comet Green",
+  "price" : "15999",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/2460x1080 Пикс"
+}, {
+  "title" : "Смартфон realme C63 8/256GB Green",
+  "price" : "14999",
+  "cashback" : "450",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.74\"/720x1600 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Desert Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Ultramarine",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Desert Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Flip6 12/256GB Gray",
+  "price" : "98590",
+  "cashback" : "2958",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/256GB Titan Black",
+  "price" : "43990",
+  "cashback" : "1320",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Black Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Desert Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim White Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A55 5G 8/128GB Blue",
+  "price" : "36190",
+  "cashback" : "1086",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.6\"/1080x2340 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 12/512GB Black",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24+ 256GB ONYX BLACK",
+  "price" : "112337",
+  "cashback" : "3370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Black",
+  "price" : "108999",
+  "cashback" : "3270",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/1179x2556 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Black Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Black",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Natural Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim White Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 8/256GB Black",
+  "price" : "31990",
+  "cashback" : "960",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Natural Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Pink",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Black Titani",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim Black",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Graphite",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/128GB Silver Shadow",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 8/256GB Lime",
+  "price" : "33990",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi F7 Ultra 16/512GB Black",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24+ 5G 12/256GB Серый",
+  "price" : "103999",
+  "cashback" : "3120",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Blue",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB nanoSim/eSim Black Titanium",
+  "price" : "169990",
+  "cashback" : "5100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Redmi Note 13 Pro+ 12/512GB White",
+  "price" : "37990",
+  "cashback" : "1140",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2772x1240 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 12/512GB Midnight Black",
+  "price" : "39290",
+  "cashback" : "1179",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim White Titani",
+  "price" : "147999",
+  "cashback" : "4440",
+  "reviewCount" : "N/A",
+  "rating" : "167999",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A35 8/128GB Голубой",
+  "price" : "27990",
+  "cashback" : "840",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Black",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон POCO F6 12/512GB Black",
+  "price" : "35990",
+  "cashback" : "1080",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim White",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Black",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB nanoSim/eSim Desert Titanium",
+  "price" : "169990",
+  "cashback" : "5100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Desert Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Desert Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Black Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Black Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Black Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/512GB Titan Black",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 8/256GB Gray",
+  "price" : "20990",
+  "cashback" : "630",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон POCO F6 8/256GB Black",
+  "price" : "35090",
+  "cashback" : "1053",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim White",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Fold6 12/1TB Gray",
+  "price" : "174990",
+  "cashback" : "5250",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 256GB nanoSim/eSim Black",
+  "price" : "142990",
+  "cashback" : "4290",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Ultramarine",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Natural Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Black",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 6/128GB Black",
+  "price" : "17990",
+  "cashback" : "540",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno Pova 6 Pro 5G 12/256GB Comet Green",
+  "price" : "29999",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Natural Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Google Pixel 7 8/128GB Obsidian",
+  "price" : "50990",
+  "cashback" : "1530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/1080x2400 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A35 8/256GB Лаванда",
+  "price" : "31990",
+  "cashback" : "960",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim White Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Desert Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 12/512GB Green",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 12/512GB Yellow",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/128GB Olive",
+  "price" : "37490",
+  "cashback" : "1125",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/128GB Graphite",
+  "price" : "37490",
+  "cashback" : "1125",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/256GB Pink",
+  "price" : "41490",
+  "cashback" : "1245",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 6/128GB Black",
+  "price" : "23990",
+  "cashback" : "720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон POCO M7 Pro 8/256GB Purple",
+  "price" : "19990",
+  "cashback" : "600",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Google Pixel 8 Pro 12/128GB Obsidian",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2992x1334 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 FE 8/256GB Purple",
+  "price" : "57990",
+  "cashback" : "1740",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон POCO X6 12/256GB Blue",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Desert Titan",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Black Titani",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim White Titani",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/128GB Navy",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 4G 12/512GB Midnight Black",
+  "price" : "28790",
+  "cashback" : "864",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Black",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Whitesilver",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Black",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 8/256GB Black",
+  "price" : "33990",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/128GB Olive",
+  "price" : "37490",
+  "cashback" : "1125",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 8/256GB Black",
+  "price" : "21490",
+  "cashback" : "645",
+  "reviewCount" : "N/A",
+  "rating" : "24990",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Silverblue",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 FE 8/128GB Cream",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Google Pixel 9 Pro XL 16/256GB Obsidian",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/2992x1344 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Graphite",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/512GB Titan Gray",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim White Titanium",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Natural Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/512GB Titan Black",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Whitesilver",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Black Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Google Pixel 9 Pro XL 16/256GB Hazel",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/2992x1344 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Desert Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Graphite",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB nanoSim/eSim White Titanium",
+  "price" : "169990",
+  "cashback" : "5100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Natural Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Samsung Galaxy S24 8/128GB Onyx Black",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 12/256GB Olive",
+  "price" : "44990",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Jetblack",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Redmi 13 6/128GB Gold",
+  "price" : "11990",
+  "cashback" : "360",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.79\"/2460x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Black Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Samsung Galaxy A16 6/128GB Black",
+  "price" : "17990",
+  "cashback" : "540",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Desert Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Gray",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Redmi Note 13 8/256GB Black",
+  "price" : "21990",
+  "cashback" : "660",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A35 8/128GB Темно-синий",
+  "price" : "28990",
+  "cashback" : "870",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24+ 5G 12/256GB Фиолетовый",
+  "price" : "90899",
+  "cashback" : "2727",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Desert Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Desert Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256 GB, Graphite",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 128GB nanoSim/eSim White",
+  "price" : "111990",
+  "cashback" : "3360",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Black Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 12/256GB Graphite",
+  "price" : "44990",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 12/512GB Black",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A55 8/128GB Темно-синий",
+  "price" : "33890",
+  "cashback" : "1017",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Redmi Note 13 Pro+ 8/256GB Purple",
+  "price" : "33990",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2772x1240 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Desert Titanium",
+  "price" : "158890",
+  "cashback" : "4767",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/256GB Navy",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 4G 12/512GB Aurora Purple",
+  "price" : "28790",
+  "cashback" : "864",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Black",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 Pro 128GB nanoSim/eSim Natural Titanium",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim White",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A55 5G 8/128GB Blue",
+  "price" : "33990",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "44900",
+  "screen" : "6.6\"/1080x2340 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Pink",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Pink",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/256GB Titan Gray",
+  "price" : "43990",
+  "cashback" : "1320",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Teal",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Teal",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Ultramarine",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Graphite",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Black",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Green",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 5G 12/512GB Coral Green",
+  "price" : "30990",
+  "cashback" : "930",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 8/256GB Mint",
+  "price" : "26990",
+  "cashback" : "810",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/512GB Gray",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 12/512GB Midnight Black",
+  "price" : "39290",
+  "cashback" : "1179",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/512GB Navy",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 12/512GB Black",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Silverblue",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 256GB nanoSim/eSim White",
+  "price" : "76990",
+  "cashback" : "2310",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 6/128GB White",
+  "price" : "23990",
+  "cashback" : "720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 Ultra 12/512GB Silver",
+  "price" : "125490",
+  "cashback" : "3765",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.73\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Desert Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Black Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/256GB Titan Gray",
+  "price" : "43990",
+  "cashback" : "1320",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Flip6 12/512GB Gray",
+  "price" : "99990",
+  "cashback" : "3000",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/512GB Titan Blue",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24+ 256GB Marble Grey",
+  "price" : "99590",
+  "cashback" : "2988",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3088x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Black Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 6/128GB Gray",
+  "price" : "17990",
+  "cashback" : "540",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 6/128GB Gray",
+  "price" : "17990",
+  "cashback" : "540",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Natural Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 256GB Onyx Black",
+  "price" : "87990",
+  "cashback" : "2640",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 128GB Marble Grey",
+  "price" : "79990",
+  "cashback" : "2400",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno Pova 6 8/256GB Gray",
+  "price" : "22990",
+  "cashback" : "690",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Natural Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Black",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 8/256GB Mint",
+  "price" : "26990",
+  "cashback" : "810",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 8/256GB White",
+  "price" : "26990",
+  "cashback" : "810",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 Ultra 12/512GB Black",
+  "price" : "125490",
+  "cashback" : "3765",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.73\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 4G 8/256GB Black",
+  "price" : "19990",
+  "cashback" : "600",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/256GB Silver Shadow",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/512GB IcyBlue",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 12/512GB Yellow",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 5G 12/512GB Lavender Purple",
+  "price" : "30990",
+  "cashback" : "930",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 256GB nanoSim/eSim Black",
+  "price" : "76990",
+  "cashback" : "2310",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim Black",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 6/128GB White",
+  "price" : "23990",
+  "cashback" : "720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/256GB Olive",
+  "price" : "41490",
+  "cashback" : "1245",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 8/128GB White",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 128GB nanoSim/eSim Teal",
+  "price" : "111990",
+  "cashback" : "3360",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 8/256GB Black",
+  "price" : "20990",
+  "cashback" : "630",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 8/256GB Black",
+  "price" : "26990",
+  "cashback" : "810",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 4G 8/256GB Midnight Black",
+  "price" : "23990",
+  "cashback" : "720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Jetblack",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X6 Pro 12/512GB Black",
+  "price" : "37990",
+  "cashback" : "1140",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Midnight",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Pink",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Black",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim White Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Black Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/512GB Titan Black",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Mint",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/512GB Titan Blue",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim White Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim White Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 Ultra 256GB Titanium Gray",
+  "price" : "126990",
+  "cashback" : "3810",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Black Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 8/256GB Black",
+  "price" : "20990",
+  "cashback" : "630",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 128GB Beige",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Black",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Black",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Ultramarine",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Ultramarine",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 8/128GB Cream",
+  "price" : "68990",
+  "cashback" : "2070",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Graphite",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Natural Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/256GB Titan Blue",
+  "price" : "43990",
+  "cashback" : "1320",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Google Смартфон Google Pixel 7 Pro 12/512GB Hazel",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/1440x3120 Пикс"
+}, {
+  "title" : "Смартфон realme C63 8/256GB Blue",
+  "price" : "14999",
+  "cashback" : "450",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.745\"/720x1600 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Green",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Green",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno POVA 6 12/256GB Green",
+  "price" : "24490",
+  "cashback" : "735",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/256GB Titan Black",
+  "price" : "43990",
+  "cashback" : "1320",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/256GB Titan Gray",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Black Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim White Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB nanoSim/eSim Black Titanium",
+  "price" : "169990",
+  "cashback" : "5100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB nanoSim/eSim Black Titanium",
+  "price" : "169990",
+  "cashback" : "5100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB nanoSim/eSim Black Titanium",
+  "price" : "169990",
+  "cashback" : "5100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Teal",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Teal",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 256GB nanoSim/eSim Pink",
+  "price" : "142990",
+  "cashback" : "4290",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Desert Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Desert Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Desert Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 12/512GB Midnight Black",
+  "price" : "39290",
+  "cashback" : "1179",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/256GB Silver Shadow",
+  "price" : "88990",
+  "cashback" : "2670",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 4G 12/512GB Ocean Blue",
+  "price" : "28790",
+  "cashback" : "864",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 4G 12/512GB Ocean Blue",
+  "price" : "28790",
+  "cashback" : "864",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 5G 12/512GB Midnight Black",
+  "price" : "30990",
+  "cashback" : "930",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 8/256GB White",
+  "price" : "33990",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 6/128GB Mint",
+  "price" : "23990",
+  "cashback" : "720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi F7 Ultra 16/512GB Yellow",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Samsung Galaxy S24 8/128GB Cobalt Violet",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24+ 12/256GB Cobalt Violet",
+  "price" : "114389",
+  "cashback" : "3432",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X6 Pro 12/512GB Black",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 13 Pro+ 5G 12/512GB Aurora Purple",
+  "price" : "42890",
+  "cashback" : "1287",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Natural Tita",
+  "price" : "160890",
+  "cashback" : "4827",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Ultramarine",
+  "price" : "125999",
+  "cashback" : "3780",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/1179x2556 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Teal",
+  "price" : "112999",
+  "cashback" : "3390",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/1179x2556 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Black Titani",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Samsung Galaxy A16 6/128GB Green",
+  "price" : "17990",
+  "cashback" : "540",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 12/512GB Lavender Purple",
+  "price" : "39290",
+  "cashback" : "1179",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 5G 12/512GB Black",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/512GB IcyBlue",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 8/256GB Yellow",
+  "price" : "31990",
+  "cashback" : "960",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 12/512GB Yellow",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/128GB Navy",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/256GB Navy",
+  "price" : "88990",
+  "cashback" : "2670",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/256GB IcyBlue",
+  "price" : "88990",
+  "cashback" : "2670",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 12/512GB Black",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 12/512GB Yellow",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 8/256GB Green",
+  "price" : "31990",
+  "cashback" : "960",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 5G 8/256GB Black",
+  "price" : "24990",
+  "cashback" : "750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 8/256GB Yellow",
+  "price" : "31990",
+  "cashback" : "960",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/256GB Mint",
+  "price" : "98990",
+  "cashback" : "2970",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Silverblue",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Whitesilver",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Whitesilver",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 256GB nanoSim/eSim White",
+  "price" : "76990",
+  "cashback" : "2310",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim Black",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 256GB nanoSim/eSim White",
+  "price" : "76990",
+  "cashback" : "2310",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/128GB Pink",
+  "price" : "37490",
+  "cashback" : "1125",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 12/256GB Lightgray",
+  "price" : "44990",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 Ultra 12/512GB Silver",
+  "price" : "125490",
+  "cashback" : "3765",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.73\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 8/256GB Gray",
+  "price" : "21490",
+  "cashback" : "645",
+  "reviewCount" : "N/A",
+  "rating" : "24990",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Natural Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Tecno PHANTOM V Fold2 5G 12/512GB Blue",
+  "price" : "109990",
+  "cashback" : "3300",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 256GB nanoSim/eSim Teal",
+  "price" : "142990",
+  "cashback" : "4290",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 8/256GB Lavender",
+  "price" : "33990",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Note 13 Pro 5G 8/256GB Aurora Purple",
+  "price" : "28990",
+  "cashback" : "870",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон POCO X6 8/256GB White",
+  "price" : "28800",
+  "cashback" : "864",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 Pro 128GB nanoSim/eSim Black Titanium",
+  "price" : "149999",
+  "cashback" : "4500",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/1179x2556 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Silverblue",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim White",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Redmi Note 13 8/128GB Green",
+  "price" : "18990",
+  "cashback" : "570",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/256GB Titan Blue",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Redmi Note 13 8/128GB Black",
+  "price" : "18990",
+  "cashback" : "570",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 8/128GB Onyx Black",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "120590",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/512GB Blue",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB nanoSim/eSim Desert Titanium",
+  "price" : "169990",
+  "cashback" : "5100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Black",
+  "price" : "74900",
+  "cashback" : "2247",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон POCO C75 6/128GB Black",
+  "price" : "14490",
+  "cashback" : "435",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.88\"/1640x7201640 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/128GB Mint",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/128GB Silver Shadow",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Black",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim White",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон POCO F6 12/512GB Black",
+  "price" : "35990",
+  "cashback" : "1080",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Flip6 12/256GB Green",
+  "price" : "98590",
+  "cashback" : "2958",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Tecno Phantom V Flip2 5G 8/256GB Green",
+  "price" : "64999",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 8/256GB Lavender Purple",
+  "price" : "34290",
+  "cashback" : "1029",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Whitesilver",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple IPhone 15 256GB nanoSim/eSim Black",
+  "price" : "129999",
+  "cashback" : "3900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Silverblue",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 5G 8/256GB Green",
+  "price" : "24990",
+  "cashback" : "750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Fold6 12/256GB Blue",
+  "price" : "149990",
+  "cashback" : "4500",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim White",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Black",
+  "price" : "79899",
+  "cashback" : "2397",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Black Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/1TB Titan Black",
+  "price" : "67990",
+  "cashback" : "2040",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/512GB Titan Black",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/256GB Titan Gray",
+  "price" : "43990",
+  "cashback" : "1320",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/512GB Titan Gray",
+  "price" : "51990",
+  "cashback" : "1560",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Mint",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Flip6 12/512GB Yellow",
+  "price" : "99990",
+  "cashback" : "3000",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 256GB nanoSim/eSim Black",
+  "price" : "142990",
+  "cashback" : "4290",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Desert Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB nanoSim/eSim White Titanium",
+  "price" : "169990",
+  "cashback" : "5100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Teal",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Natural Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 12/256GB Lightgray",
+  "price" : "44990",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Samsung Galaxy S24 8/256GB Marble Gray",
+  "price" : "74990",
+  "cashback" : "2250",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 Ultra 12/512GB Onyx Black",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 Ultra 12/512GB Marble Gray",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Teal",
+  "price" : "119999",
+  "cashback" : "3600",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/1179x2556 Пикс"
+}, {
+  "title" : "Смартфон POCO C61 4/128GB White",
+  "price" : "6899",
+  "cashback" : "207",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.71\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim White Titani",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/512GB Gray",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Black",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Silverblue",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim Black",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 8/256GB White",
+  "price" : "33990",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон HUAWEI Pura 70 12/256GB Black",
+  "price" : "53990",
+  "cashback" : "1620",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.6\"/2760x1256 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Fold5 12/512GB Cream",
+  "price" : "161990",
+  "cashback" : "4860",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон HONOR 200 Pro 12/512GB Green",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.78\"/2700x1224 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Flip 5 8/512GB 5G Graphite",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Blue",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Tecno PHANTOM V Fold2 5G 12/512GB Grey",
+  "price" : "109990",
+  "cashback" : "3300",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 8/128GB Sandstone Orange",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim White Titani",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/256GB Navy",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Midnight",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 256GB Amber Yellow",
+  "price" : "87990",
+  "cashback" : "2640",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A35 8/256GB Lemon",
+  "price" : "33990",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Google Pixel 8 8/256GB Hazel",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/1080x2400 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Gray",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Mint",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 8/256GB Green",
+  "price" : "20990",
+  "cashback" : "630",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 8/128GB Phantom Black",
+  "price" : "68990",
+  "cashback" : "2070",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Black Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 Ultra 12/512GB Silver",
+  "price" : "149990",
+  "cashback" : "4500",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.73\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Black",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 128GB nanoSim/eSim White",
+  "price" : "111990",
+  "cashback" : "3360",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Black",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Redmi Note 13 8/256GB Green",
+  "price" : "21990",
+  "cashback" : "660",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Blue",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Blue",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Gray",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Natural Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/256GB Titan Black",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/1TB Titanium Silverblue",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 8/128GB Lime",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 8/256GB Peach",
+  "price" : "26990",
+  "cashback" : "810",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон POCO X6 12/256GB White",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Blue",
+  "price" : "82599",
+  "cashback" : "2478",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Black Titani",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 8/256GB Black",
+  "price" : "31990",
+  "cashback" : "960",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/256GB Navy",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/128GB Navy",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/128GB Navy",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 5G 12/512GB Midnight Black",
+  "price" : "30990",
+  "cashback" : "930",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 Ultra 12/256GB Black",
+  "price" : "125990",
+  "cashback" : "3780",
+  "reviewCount" : "N/A",
+  "rating" : "161900",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/256GB Graphite",
+  "price" : "41490",
+  "cashback" : "1245",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/128GB Lightgray",
+  "price" : "37490",
+  "cashback" : "1125",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон POCO M7 Pro 8/256GB Green",
+  "price" : "19990",
+  "cashback" : "600",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон POCO M7 Pro 8/256GB Silver",
+  "price" : "19990",
+  "cashback" : "600",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 12/512GB Green",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.36\"/2670x1200 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 256GB nanoSim/eSim Blue",
+  "price" : "81990",
+  "cashback" : "2460",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim White Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Desert Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark 30C 4/128GB Orbit White",
+  "price" : "8990",
+  "cashback" : "270",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 8/256GB Yellow",
+  "price" : "31990",
+  "cashback" : "960",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 8/128GB Lavender",
+  "price" : "68990",
+  "cashback" : "2070",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Natural Titanium",
+  "price" : "132990",
+  "cashback" : "3990",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Blue",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim White Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Fold 6 5G 12/256GB Розовый",
+  "price" : "177999",
+  "cashback" : "5340",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Desert Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 12/512GB Lavender Purple",
+  "price" : "39290",
+  "cashback" : "1179",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 12/512GB Lavender Purple",
+  "price" : "39290",
+  "cashback" : "1179",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон POCO F6 Pro 12/512GB White",
+  "price" : "50990",
+  "cashback" : "1530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 5G 8/128GB Purple",
+  "price" : "85499",
+  "cashback" : "2565",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 5G 8/256GB серый",
+  "price" : "70699",
+  "cashback" : "2121",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24+ 5G 12/256GB Черный",
+  "price" : "104999",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark Go 1 4/64GB Glittery White",
+  "price" : "6499",
+  "cashback" : "195",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/256GB Mint",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/256GB IcyBlue",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 4G 8/256GB Ocean Blue",
+  "price" : "23990",
+  "cashback" : "720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 5G 8/256GB Black",
+  "price" : "24990",
+  "cashback" : "750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/256GB Silver Shadow",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/256GB Silver Shadow",
+  "price" : "98990",
+  "cashback" : "2970",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Whitesilver",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Gray",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Desert Titanium",
+  "price" : "189777",
+  "cashback" : "5693",
+  "reviewCount" : "N/A",
+  "rating" : "269999",
+  "screen" : "6.3\"/1200x2600 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 8/256GB White",
+  "price" : "26990",
+  "cashback" : "810",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 8/256GB Lavender",
+  "price" : "33990",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон POCO F7 Pro 12/256GB Black",
+  "price" : "52990",
+  "cashback" : "1590",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Blue",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон HUAWEI Pura 70 12/256GB Black",
+  "price" : "53990",
+  "cashback" : "1620",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.6\"/2760x1256 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim White",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 128GB nanoSim/eSim Teal",
+  "price" : "111990",
+  "cashback" : "3360",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/512GB Titan Gray",
+  "price" : "51990",
+  "cashback" : "1560",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 1TB nanoSim/eSim Natural Titanium",
+  "price" : "169990",
+  "cashback" : "5100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 Ultra 12/512GB White",
+  "price" : "149990",
+  "cashback" : "4500",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.73\"/3200x1440 Пикс"
+}, {
+  "title" : "Смартфон Redmi 13 6/128GB Black",
+  "price" : "11990",
+  "cashback" : "360",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.79\"/2460x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim White",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim Black Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy Z Flip 6 5G 12/256GB Голубой",
+  "price" : "110999",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : null
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 4G 8/256GB Black",
+  "price" : "19990",
+  "cashback" : "600",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Desert Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 4G 12/512GB Aurora Purple",
+  "price" : "28790",
+  "cashback" : "864",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Desert Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim Desert Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Teal",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Desert Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 512GB nanoSim/eSim Desert Titanium",
+  "price" : "150990",
+  "cashback" : "4530",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон POCO F6 12/512GB Titanium",
+  "price" : "35990",
+  "cashback" : "1080",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T 12/256GB Titan Blue",
+  "price" : "43990",
+  "cashback" : "1320",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Black",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Pink",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 Ultra 12/256GB Black Titan",
+  "price" : "133999",
+  "cashback" : "4020",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim White Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim White Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim White Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Teal",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Redmi A3x 3/64GB Aurora Green",
+  "price" : "5990",
+  "cashback" : "180",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.71\"/1650x720 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 Ultra 12/512GB Marble Gray",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.8\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 512GB nanoSim/eSim Desert Titanium",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 1TB nanoSim/eSim White Titanium",
+  "price" : "189990",
+  "cashback" : "5700",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 6/128GB Green",
+  "price" : "17990",
+  "cashback" : "540",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim White Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/256GB Titan Black",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 8/256GB Midnight Black",
+  "price" : "34290",
+  "cashback" : "1029",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 5G 8/256GB Silver",
+  "price" : "24990",
+  "cashback" : "750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/128GB Lightgray",
+  "price" : "37490",
+  "cashback" : "1125",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/256GB Graphite",
+  "price" : "41490",
+  "cashback" : "1245",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple Phone 16 Pro 512GB nanoSim/eSim Black Titanium",
+  "price" : "N/A",
+  "cashback" : "N/A",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/1200x2600 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB Natural Titanium",
+  "price" : "163990",
+  "cashback" : "4920",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark 30C 6/128GB Orbit White",
+  "price" : "9999",
+  "cashback" : "300",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/512GB Blue",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/512GB Mint",
+  "price" : "69990",
+  "cashback" : "2100",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro+ 5G 8/256GB Midnight Black",
+  "price" : "34290",
+  "cashback" : "1029",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 12/128GB IcyBlue",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.2\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/512GB Silver Shadow",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 4G 12/512GB Aurora Purple",
+  "price" : "28790",
+  "cashback" : "864",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 12/512GB Green",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/256GB Silver Shadow",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Gray",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/1TB Titanium Whitesilver",
+  "price" : "159990",
+  "cashback" : "4800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Black",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 5G 12/512GB Midnight Black",
+  "price" : "30990",
+  "cashback" : "930",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim White",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A36 8/256GB Lime",
+  "price" : "33990",
+  "cashback" : "1020",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 8/256GB Olive",
+  "price" : "41490",
+  "cashback" : "1245",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 12/256GB Graphite",
+  "price" : "44990",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 12/256GB Olive",
+  "price" : "44990",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 12/256GB Graphite",
+  "price" : "44990",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 12/256GB Graphite",
+  "price" : "44990",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A56 12/256GB Lightgray",
+  "price" : "44990",
+  "cashback" : "1350",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A55 8/128GB Navy",
+  "price" : "49999",
+  "cashback" : "1500",
+  "reviewCount" : "N/A",
+  "rating" : "79999",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 15 12/512GB White",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.36\"/2670x1200 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro Max 256GB nanoSim/eSim Desert Titan",
+  "price" : "147999",
+  "cashback" : "4440",
+  "reviewCount" : "N/A",
+  "rating" : "167999",
+  "screen" : "6.9\"/2868x1320 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/256GB Titanium Jetblack",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Blue",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "622",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Green",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "622",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Green",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "622",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 4G 12/512GB Midnight Black",
+  "price" : "28790",
+  "cashback" : "864",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Redmi Note 14 Pro 4G 12/512GB Aurora Purple",
+  "price" : "28790",
+  "cashback" : "864",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim Natural Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 128GB nanoSim/eSim Ultramarine",
+  "price" : "111990",
+  "cashback" : "3360",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 12/512GB Titanium Black",
+  "price" : "110990",
+  "cashback" : "3330",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S22 5G 256GB Phantom White (SM-S901E/DS)",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim White",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 128GB nanoSim/eSim White Titanium",
+  "price" : "106990",
+  "cashback" : "3210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim White",
+  "price" : "103166",
+  "cashback" : "3095",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy M55 8/256GB Green",
+  "price" : "34990",
+  "cashback" : "1050",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi 14T Pro 12/256GB Titan Gray",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Green",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 128GB nanoSim/eSim Black",
+  "price" : "78990",
+  "cashback" : "2370",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim White",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Pro 256GB nanoSim/eSim White Titanium",
+  "price" : "123990",
+  "cashback" : "3720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.3\"/2622x1206 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Ultramarine",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 256GB nanoSim/eSim Ultramarine",
+  "price" : "93990",
+  "cashback" : "2820",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 6/128GB White",
+  "price" : "23990",
+  "cashback" : "720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark Go 1 4/128GB Startrail Black",
+  "price" : "6999",
+  "cashback" : "210",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 128GB nanoSim/eSim Teal",
+  "price" : "111990",
+  "cashback" : "3360",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Mint",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/256GB Navy",
+  "price" : "94990",
+  "cashback" : "2850",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон POCO X6 8/256GB Black",
+  "price" : "28900",
+  "cashback" : "867",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Plus 12/512GB Mint",
+  "price" : "104990",
+  "cashback" : "3150",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Samsung Galaxy A16 4/128GB Gray",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A26 6/128GB Black",
+  "price" : "23990",
+  "cashback" : "720",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 128GB nanoSim/eSim Teal",
+  "price" : "111990",
+  "cashback" : "3360",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S24 FE 8/256GB Mint",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 8/256GB Gray",
+  "price" : "20990",
+  "cashback" : "630",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Gray",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 4/128GB Gray",
+  "price" : "15990",
+  "cashback" : "480",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон realme C61 6/128GB Темно-зеленый",
+  "price" : "9999",
+  "cashback" : "300",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.74\"/1600x720 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16 Plus 256GB nanoSim/eSim Pink",
+  "price" : "142990",
+  "cashback" : "4290",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2796x1290 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy A16 6/128GB Green",
+  "price" : "17990",
+  "cashback" : "540",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy M55 8/256GB Black",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.7\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 5G 12/512GB Black",
+  "price" : "29990",
+  "cashback" : "900",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi POCO X7 Pro 5G 8/256GB Black",
+  "price" : "31990",
+  "cashback" : "960",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.67\"/2712x1220 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 16e 128GB nanoSim/eSim White",
+  "price" : "62990",
+  "cashback" : "1890",
+  "reviewCount" : "N/A",
+  "rating" : "N/A",
+  "screen" : "6.1\"/2532x1170 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 Ultra 256GB Cream",
+  "price" : "99990",
+  "cashback" : "3000",
+  "reviewCount" : "74",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Смартфон Umidigi Power 7 Max 6/128GB Black Reef Gray",
+  "price" : "11199",
+  "cashback" : "336",
+  "reviewCount" : "20",
+  "rating" : "5.0",
+  "screen" : "6.7\"/720x1650 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 128GB Lavender",
+  "price" : "68990",
+  "cashback" : "2070",
+  "reviewCount" : "19",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 FE 8/256GB Graphite",
+  "price" : "63990",
+  "cashback" : "1920",
+  "reviewCount" : "19",
+  "rating" : "5.0",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Infinix Hot 12 PRO X668C 8/128GB Black",
+  "price" : "17199",
+  "cashback" : "516",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.6\"/720x1612 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 Ultra 12/512GB Green",
+  "price" : "121990",
+  "cashback" : "3660",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.8\"/3088x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 FE 8/128GB Purple",
+  "price" : "59990",
+  "cashback" : "1800",
+  "reviewCount" : "18",
+  "rating" : "5.0",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 128GB nanoSim/eSim Pink",
+  "price" : "71990",
+  "cashback" : "2160",
+  "reviewCount" : "17",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Blue",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "16",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Xiaomi Poco X5 6/128GB Green",
+  "price" : "29900",
+  "cashback" : "897",
+  "reviewCount" : "16",
+  "rating" : "5.0",
+  "screen" : "6.67\"/2400x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S22 5G 128GB Phantom Black (SM-S901E/DS)",
+  "price" : "58990",
+  "cashback" : "1770",
+  "reviewCount" : "19",
+  "rating" : "4.8",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 FE 8/256GB Purple",
+  "price" : "63990",
+  "cashback" : "1920",
+  "reviewCount" : "15",
+  "rating" : "5.0",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Blue",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "16",
+  "rating" : "4.8",
+  "screen" : "6.6\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Blue",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "13",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23+ 512GB Green",
+  "price" : "89990",
+  "cashback" : "2700",
+  "reviewCount" : "11",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Tecno Spark 30 Pro 8/256GB Obsidian Edge",
+  "price" : "16990",
+  "cashback" : "510",
+  "reviewCount" : "11",
+  "rating" : "5.0",
+  "screen" : "6.78\"/2436x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Starlight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "11",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Blue",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "11",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Blue",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 FE 8/256GB Mint",
+  "price" : "63990",
+  "cashback" : "1920",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Midnight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Blue",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "10",
+  "rating" : "5.0",
+  "screen" : "6.6\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Green",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Midnight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 14 128GB nanoSim/eSim Starlight",
+  "price" : "60990",
+  "cashback" : "1830",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 15 256GB nanoSim/eSim Black",
+  "price" : "84990",
+  "cashback" : "2550",
+  "reviewCount" : "7",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2556x1179 Пикс"
+}, {
+  "title" : "Смартфон Apple iPhone 13 128GB nanoSim/eSim Midnight",
+  "price" : "51490",
+  "cashback" : "1545",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.1\"/1170x2532 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 128GB Cream",
+  "price" : "68990",
+  "cashback" : "2070",
+  "reviewCount" : "8",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S25 Ultra 5G 12/256GB Черный",
+  "price" : "124990",
+  "cashback" : "3750",
+  "reviewCount" : "8",
+  "rating" : "4.9",
+  "screen" : "6.9\"/3120x1440 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 FE 8/256GB Graphite",
+  "price" : "64990",
+  "cashback" : "1950",
+  "reviewCount" : "8",
+  "rating" : "4.8",
+  "screen" : "6.4\"/2340x1080 Пикс"
+}, {
+  "title" : "Смартфон Umidigi G1 MAX 6/128GB Blue",
+  "price" : "9891",
+  "cashback" : "297",
+  "reviewCount" : "6",
+  "rating" : "5.0",
+  "screen" : "6.52\"/720x1600 Пикс"
+}, {
+  "title" : "Смартфон Tecno Pova 6 Neo 8/256GB Speed Black",
+  "price" : "17990",
+  "cashback" : "540",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.8\"/2460x1080 Пикс"
+}, {
+  "title" : "Смартфон Samsung Galaxy S23 8/128GB Cream",
+  "price" : "68990",
+  "cashback" : "2070",
+  "reviewCount" : "5",
+  "rating" : "5.0",
+  "screen" : "6.1\"/2340x1080 Пикс"
 } ]
